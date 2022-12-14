@@ -1,6 +1,6 @@
 def list_s3_files_using_client():
     """
-    This functions list all files in s3 bucket.
+    This functions list all files in s3 bucket. version 2
     :return: None
     """
 
